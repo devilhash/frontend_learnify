@@ -1,0 +1,42 @@
+.navbar{
+    background-color: rgb(22, 30, 37);
+    height: 80px;
+   
+}
+
+.material-symbols-outlined{
+    color:white;
+    margin: auto;
+   
+    
+     
+}
+.name{
+    color:white;
+    margin: auto;
+    padding-left: 20px;
+   
+}
+.search{
+    height: 40px;
+    width: 400px;
+    margin-left: 400px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(89, 92, 94);
+    color: white;
+    
+}
+.navRow{ 
+    display: flex;
+     
+     
+}
+.getPrime{
+    height: 30px;
+    width: 120px;
+    border: none;
+    border-radius:8px;
+}
+ 
+ 
