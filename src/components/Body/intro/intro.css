@@ -1,0 +1,14 @@
+.intro{
+    padding-left: 70px;
+    padding-top: 40px;
+}
+
+.intro button{
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    background-color: cadetblue;
+}

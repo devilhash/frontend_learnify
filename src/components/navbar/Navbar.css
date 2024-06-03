@@ -1,6 +1,7 @@
 .navbar{
     background-color: rgb(22, 30, 37);
     height: 80px;
+    width: 40px;
    
 }
 
@@ -38,5 +39,14 @@
     border: none;
     border-radius:8px;
 }
+.material-symbols-outlined{
+    padding: 10px;
+    padding-left: 20px;
+}
+.navRpw{
+    display: flex;
+    position: fixed;
+}
+ 
  
  

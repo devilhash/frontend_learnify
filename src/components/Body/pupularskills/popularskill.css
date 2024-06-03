@@ -1,0 +1,14 @@
+.img{
+    width:18rem;
+     margin-top:40px;
+     border: none;
+    
+}
+.skills{
+    padding :30px;
+}
+.skills h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: white;
+}
